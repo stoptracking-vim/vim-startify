@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/mhinz/vim-startify.svg?branch=master)](https://travis-ci.org/mhinz/vim-startify)
-
-![vim-startify](https://raw.githubusercontent.com/mhinz/vim-startify/master/images/startify-logo.png)
+This is fork. You probably want an original plugin.
 
 ---
 
