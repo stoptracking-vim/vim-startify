@@ -1,8 +1,6 @@
 This is fork. You probably want an original plugin.
 ---
 
----
-
 This plugin provides a start screen for Vim and Neovim.
 
 It provides **dynamically created headers or footers** and uses configurable
