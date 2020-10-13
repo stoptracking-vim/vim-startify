@@ -1,1 +1,4 @@
 doc/tags
+images/
+test/
+.travis.yml
