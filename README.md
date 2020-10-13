@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.org/mhinz/vim-startify.svg?branch=master)](https://travis-ci.org/mhinz/vim-startify)
-
-![vim-startify](https://raw.githubusercontent.com/mhinz/vim-startify/master/images/startify-logo.png)
-
+This is fork. You probably want an original plugin.
 ---
 
 This plugin provides a start screen for Vim and Neovim.
@@ -39,15 +36,6 @@ documentation for further customization:
 
 If you want to share anything with your fellow plugin users, make sure to visit
 the [wiki](https://github.com/mhinz/vim-startify/wiki).
-
-## Screenshot
-
-![Startify in action!](https://github.com/mhinz/vim-startify/blob/master/images/startify-menu.png)
-
-That's it. A fancy start screen for Vim.
-
-_(Almost all visible features enabled. Colorscheme:
-[vim-janah](https://github.com/mhinz/vim-janah).)_
 
 ## Author and Feedback
 
